@@ -1,0 +1,52 @@
+[{
+  "_id": {
+    "$oid": "66b06755d81c3474a0b1b830"
+  },
+  "companyName": "HemsWay",
+  "companyLogo": "",
+  "companyAddress": "1 main Street ",
+  "companyPhoneNumber": "1234567890",
+  "companyEmail": "company@company.com",
+  "companyId": "A0947",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-08-05T05:47:01.109Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-16T03:22:02.396Z"
+  },
+  "companyConfig": {
+    "colorTheme": {
+      "primary": {
+        "main": "#dfeffc",
+        "main900": "#115293",
+        "main700": "#2196f3",
+        "main500": "#4dabf5"
+      },
+      "secondary": {
+        "main": "#dc004e",
+        "main900": "#1769aa",
+        "main700": "#2196f3",
+        "main500": "#4dabf5"
+      },
+      "notification": {
+        "error": "#ef5350",
+        "warning": "#ff9800",
+        "info": "#03a9f4",
+        "success": "#4caf50"
+      },
+      "background": {
+        "default": "#f3f3f3",
+        "grey100": "#f6f6f6",
+        "grey200": "#ddd",
+        "grey300": "#c2c2c2",
+        "grey400": "#7b7b7b"
+      },
+      "text": {
+        "primary": "#343434",
+        "secondary": "#f3f3f3",
+        "tertiary": "#fff"
+      }
+    }
+  }
+}]
